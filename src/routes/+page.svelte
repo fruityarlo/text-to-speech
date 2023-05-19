@@ -80,8 +80,8 @@
     </h1>
     <div class="text-center mt-8">
       <span class="text-gray-400">by</span>
-      <!-- <a href="https://fruityarlo.github.io" class="bg-slate-200 hover:bg-slate-300 rounded-full pl-2 pr-3 py-2 inline text-base font-semibold text-slate-500 hover:text-slate-700 transition-colors">🥭 fruity arlo</a> -->
-      <span class="bg-slate-200 hover:bg-slate-300 rounded-full pl-2 pr-3 py-2 inline text-base font-semibold text-slate-500 hover:text-slate-700 transition-colors">🥭 fruity arlo</span>
+      <!-- <a href="https://fruityarlo.github.io" class="bg-slate-200 hover:bg-slate-300 rounded-full pl-2 pr-3 py-2 inline text-base font-semibold text-slate-500 hover:text-slate-700 transition-colors">🥭 arlo</a> -->
+      <span class="bg-slate-200 hover:bg-slate-300 rounded-full pl-2 pr-3 py-2 inline text-base font-semibold text-slate-500 hover:text-slate-700 transition-colors">🥭 arlo</span>
     </div>
   </header>
 
